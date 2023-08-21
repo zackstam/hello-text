@@ -7,3 +7,4 @@ add 3
 
 add feature 1
 add feature 2
+add feature 3
