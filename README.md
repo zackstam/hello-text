@@ -7,3 +7,4 @@ add 3
 
 feature b1
 feature b2
+feature b3
