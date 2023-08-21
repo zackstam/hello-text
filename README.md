@@ -12,3 +12,4 @@ add feature 4
 add feature 5
 add 4
 add 5
+add 6
